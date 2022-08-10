@@ -368,7 +368,7 @@ const info: { en: langInfo; no: langInfo } = {
                 {
                   timerange: "Juni 2021 - August 2021",
                   description: "Hovedinstruktør",
-                  text: "Satt sammen den faglige delen av et kurs for grunnskoleelever sammen med faglig ansvarlig leder fra Superinstruktørene",
+                  text: "Satt sammen den faglige delen av et kodekurs for grunnskoleelever sammen med faglig ansvarlig leder fra Superinstruktørene",
                 },
               ],
             },
