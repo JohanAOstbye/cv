@@ -135,6 +135,17 @@ const info: { en: langInfo; no: langInfo } = {
           Icon: MdWorkOutline,
           locations: [
             {
+              title: "Knowit Experience",
+              location: "Oslo",
+              positions: [
+                {
+                  timerange: "June 2022 - August 2022",
+                  description: "Developer",
+                  text: "Frontend developer working with react",
+                },
+              ],
+            },
+            {
               title: "Superinstruktørene AS",
               location: "Nesodden",
               positions: [
@@ -339,6 +350,17 @@ const info: { en: langInfo; no: langInfo } = {
           title: "Arbeids erfaring",
           Icon: MdWorkOutline,
           locations: [
+            {
+              title: "Knowit Experience",
+              location: "Oslo",
+              positions: [
+                {
+                  timerange: "June 2022 - August 2022",
+                  description: "Utvikler",
+                  text: "Frontend utvikler hvor jeg jobbet med react",
+                },
+              ],
+            },
             {
               title: "Superinstruktørene AS",
               location: "Nesodden",
